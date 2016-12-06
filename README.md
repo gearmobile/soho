@@ -6,14 +6,13 @@
 
 При создании использовались следующие **плагины** и **ресурсы**:
 
-[jQuery][1]
-[Slideout.js][2]
-[Isotope][3]
-[Swiper Slider][4]
-[imagesLoaded][5]
-[Chartist.js][6]
-[Lost Grid][7]
-[Select2][11]
+* [jQuery][1]
+* [Slideout.js][2]
+* [Isotope][3]
+* [Swiper Slider][4]
+* [imagesLoaded][5]
+* [Lost Grid][7]
+* [Select2][11]
 
 # Верстка
 
@@ -35,7 +34,7 @@
 
 ***
 [1]: https://jquery.com "jQuery"
-[2]: https://mango.github.io/slideout/
+[2]: https://mango.github.io/slideout/ "Slideout.js"
 [3]: https://www.npmjs.com/package/isotope-layout "Isotope"
 [4]: https://www.npmjs.com/package/swiper "Swiper"
 [5]: https://www.npmjs.com/package/imagesloaded "ImagesLoaded"
@@ -44,7 +43,3 @@
 [9]: https://assets.adobe.com/ "Adobe Creative Cloud"
 [10]: https://gearmobile.github.io/soho/ "Soho"
 [11]: https://select2.github.io "Select2"
-
-
-
-},
