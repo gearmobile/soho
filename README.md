@@ -35,9 +35,9 @@
 ***
 [1]: https://jquery.com "jQuery"
 [2]: https://mango.github.io/slideout/ "Slideout.js"
-[3]: https://www.npmjs.com/package/isotope-layout "Isotope"
-[4]: https://www.npmjs.com/package/swiper "Swiper"
-[5]: https://www.npmjs.com/package/imagesloaded "ImagesLoaded"
+[3]: http://isotope.metafizzy.co "Isotope"
+[4]: http://idangero.us/swiper/ "Swiper"
+[5]: http://imagesloaded.desandro.com "ImagesLoaded"
 [7]: http://lostgrid.org/ "LostGrid"
 [8]: https://github.com/tars/tars "TARS"
 [9]: https://assets.adobe.com/ "Adobe Creative Cloud"
